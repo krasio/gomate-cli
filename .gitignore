@@ -1,0 +1,4 @@
+dump.rdb
+log/*.log
+gomate-cli
+tmp/*
